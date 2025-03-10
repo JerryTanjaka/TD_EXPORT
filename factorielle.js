@@ -5,4 +5,3 @@ export function factorielle (n) {
     }
     return test
 }
-console.log(factorielle(3))
